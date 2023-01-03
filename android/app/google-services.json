@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299482775754",
+    "project_id": "testnoti-a219e",
+    "storage_bucket": "testnoti-a219e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299482775754:android:f4e47b6efac4b4b5fcb433",
+        "android_client_info": {
+          "package_name": "com.example.wave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299482775754-vlsa30g3h5d158nn462m0fc7pj6prlp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lRSty9leIQRwPchivf-MM2UKLSX5jV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299482775754-vlsa30g3h5d158nn462m0fc7pj6prlp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
